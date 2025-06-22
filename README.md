@@ -3,10 +3,15 @@
 📊 Project Objective:
 The goal of this project is to perform a comprehensive data analysis to:
 Understand sales trends over time
+
 Identify top-performing products and categories
+
 Analyze customer purchasing behavior
+
 Explore store performance by location
+
 Generate actionable insights to drive business decisions
+
 
 📈 Key Insights:
 Top 5 best-selling products across all locations
