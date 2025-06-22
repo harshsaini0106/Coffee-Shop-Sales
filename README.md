@@ -14,6 +14,9 @@ Generate actionable insights to drive business decisions
 
 
 
+
+
+
 📈 Key Insights:
 
 
@@ -26,6 +29,9 @@ Product category trends over time
 Comparison of sales performance by store location
 
 Monthly revenue and growth analysis
+
+
+
 
 
 
